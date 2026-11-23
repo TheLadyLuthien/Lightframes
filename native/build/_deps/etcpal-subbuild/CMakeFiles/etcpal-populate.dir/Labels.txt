@@ -1,0 +1,14 @@
+# Target labels
+ etcpal-populate
+# Source files and their labels
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/CMakeFiles/etcpal-populate
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/CMakeFiles/etcpal-populate.rule
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/CMakeFiles/etcpal-populate-complete.rule
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-build.rule
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-configure.rule
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-download.rule
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-install.rule
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-mkdir.rule
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-patch.rule
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-test.rule
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-update.rule

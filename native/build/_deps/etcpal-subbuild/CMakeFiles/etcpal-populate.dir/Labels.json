@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/CMakeFiles/etcpal-populate"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/CMakeFiles/etcpal-populate.rule"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/CMakeFiles/etcpal-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-build.rule"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-download.rule"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-install.rule"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-test.rule"
+		},
+		{
+			"file" : "/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/etcpal-populate-prefix/src/etcpal-populate-stamp/etcpal-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"etcpal-populate"
+		],
+		"name" : "etcpal-populate"
+	}
+}

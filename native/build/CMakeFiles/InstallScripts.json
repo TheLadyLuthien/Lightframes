@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/luthienfinch/Developer/Node/Lightframes/native/build/cmake_install.cmake",
+		"/Users/luthienfinch/Developer/Node/Lightframes/native/build/native/lib/sACN-3.0.0/cmake_install.cmake",
+		"/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-build/cmake_install.cmake",
+		"/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-build/src/cmake_install.cmake",
+		"/Users/luthienfinch/Developer/Node/Lightframes/native/build/native/lib/sACN-3.0.0/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

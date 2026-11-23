@@ -1,0 +1,3 @@
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/CMakeFiles/etcpal-populate.dir
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/CMakeFiles/edit_cache.dir
+/Users/luthienfinch/Developer/Node/Lightframes/native/build/_deps/etcpal-subbuild/CMakeFiles/rebuild_cache.dir
